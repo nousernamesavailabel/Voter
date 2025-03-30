@@ -9,9 +9,9 @@ import random
 from datetime import datetime
 
 # Configuration
-min_wait = 2 #default 5
-max_wait = 7 #default 15
-captcha_wait = 15 #default 20
+min_wait = 1 #default 5
+max_wait = 4 #default 15
+captcha_wait = 10 #default 20
 reload_wait = 3 #default 7
 
 # Load emails and shuffle
